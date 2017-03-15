@@ -1,0 +1,18 @@
+strategy 1522158:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG6: visinsp
+	freq: 7 1/days
+	freq: 7 1/days
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: NO
+	area: front-end

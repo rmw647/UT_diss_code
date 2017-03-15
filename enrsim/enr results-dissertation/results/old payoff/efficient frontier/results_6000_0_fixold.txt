@@ -1,0 +1,67 @@
+budget:6000
+alpha:0.00
+vlow:0.442521
+vup:0.442964
+vgap: 0.001
+iterations:3977
+x[101655]=0.000
+x[102870]=0.000
+x[102961]=0.999
+
+strategy 101655:
+SG0: inspection
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: large
+strategy 102870:
+SG0: inspection
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: large
+SG3: da
+	fraction cylinders sampled: 3.00
+	freq: 7 1/days
+strategy 102961:
+SG0: inspection
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: large
+SG3: da
+	fraction cylinders sampled: 3.00
+	freq: 7 1/days
+SG5: aseals
+	fraction cascades sealed: 1.00
+SG7: visinsp
+	freq: 7 1/days
+
+y[3]=0.000
+y[156]=0.000
+y[198]=0.000
+y[300]=0.999
+
+strategy 3:
+AO: cyltheft
+	cylinders: 2.00
+	area: product storage
+strategy 156:
+AO: matcasc
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+	mass taken: 0.01
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 300:
+AO: udfeed
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+
+time:97.8180
+calcPayoff calls: 987531
+

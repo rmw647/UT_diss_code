@@ -1,0 +1,9 @@
+#!/bin/bash
+# do consecutive fp.c runs
+
+gcc model_nosealsfp_1500_01_new.c -o runfile
+./runfile
+
+gcc model_nosealsfp_6000_01_new.c -o runfile
+./runfile
+

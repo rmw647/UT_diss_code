@@ -1,0 +1,23 @@
+#!/bin/bash
+# do consecutive fp.c runs
+
+gcc b2200_015.c -o runfile
+./runfile
+
+gcc b2400_015.c -o runfile
+./runfile
+
+gcc b2600_015.c -o runfile
+./runfile
+
+gcc b2800_015.c -o runfile
+./runfile
+
+gcc b3000_015.c -o runfile
+./runfile
+
+
+
+
+
+

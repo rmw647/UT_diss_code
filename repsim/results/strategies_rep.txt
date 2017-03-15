@@ -1,0 +1,2648 @@
+defender strategies: 303
+attacker strategies: 54
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:1 SG1:0 SG2:0 SG3:1 SG4:0
+
+strategy:2 SG1:0 SG2:0 SG3:1 SG4:0
+
+strategy:3 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:4 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:5 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:6 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:7 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:8 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:9 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:10 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:11 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:12 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:13 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:14 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:15 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:16 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:17 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:18 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:19 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:20 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:21 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:22 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:23 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:24 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:25 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:26 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:27 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:28 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:29 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:30 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:31 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:32 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:33 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:34 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:35 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:36 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:37 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:38 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:39 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:40 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:41 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:42 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:43 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:44 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:45 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:46 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:47 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:48 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:49 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:50 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:51 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:52 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:53 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:54 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:55 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:56 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:57 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:58 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:59 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:60 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:61 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:62 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:63 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:64 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:65 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:66 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:67 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:68 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:69 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:70 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:71 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:72 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:73 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:74 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:75 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:76 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:77 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:78 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:79 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:80 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:81 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:82 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:83 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:84 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:85 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:86 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:87 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:88 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:89 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:90 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:91 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:92 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:93 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:94 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:95 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:96 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:97 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:98 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:99 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:100 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:101 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:102 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:103 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:104 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:105 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:106 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:107 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:108 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:109 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:110 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:111 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:112 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:113 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:114 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:115 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:116 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:117 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:118 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:119 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:120 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:121 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:122 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:123 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:124 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:125 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:126 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:127 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:128 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:129 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:130 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:131 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:132 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:133 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:134 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:135 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:136 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:137 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:138 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:139 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:140 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:141 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:142 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:143 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:144 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:145 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:146 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:147 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:148 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:149 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:150 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:151 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:152 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:153 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:154 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:155 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:156 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:157 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:158 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:159 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:160 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:161 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:162 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:163 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:164 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:165 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:166 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:167 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:168 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:169 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:170 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:171 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:172 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:173 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:174 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:175 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:176 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:177 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:178 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:179 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:180 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:181 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:182 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:183 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:184 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:185 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:186 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:187 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:188 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:189 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:190 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:191 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:192 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:193 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:194 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:195 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:196 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:197 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:198 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:199 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:200 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:201 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:202 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:203 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:204 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:205 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:206 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:207 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:208 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:209 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:210 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:211 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:212 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:213 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:214 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:215 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:216 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:217 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:218 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:219 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:220 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:221 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:222 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:223 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:224 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:225 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:226 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:227 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:228 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:229 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:230 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:231 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:232 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:233 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:234 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:235 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:236 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:237 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:238 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:239 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:240 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:241 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:242 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:243 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:244 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:245 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:246 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:247 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:248 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:249 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:250 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:251 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:252 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:253 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:254 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:255 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:256 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:257 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:258 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:259 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:260 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:261 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:262 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:263 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:264 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:265 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:266 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:267 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:268 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:269 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:270 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:271 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:272 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:273 SG1:1 SG2:0 SG3:0 SG4:0
+
+strategy:274 SG1:1 SG2:0 SG3:0 SG4:1
+
+strategy:275 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:276 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:277 SG1:1 SG2:0 SG3:1 SG4:0
+
+strategy:278 SG1:1 SG2:0 SG3:1 SG4:1
+
+strategy:279 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:280 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:281 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:282 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:283 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:284 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:285 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:286 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:287 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:288 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:289 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:290 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:291 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:292 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:293 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:294 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:295 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:296 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:297 SG1:1 SG2:1 SG3:0 SG4:0
+
+strategy:298 SG1:1 SG2:1 SG3:0 SG4:1
+
+strategy:299 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:300 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:301 SG1:1 SG2:1 SG3:1 SG4:0
+
+strategy:302 SG1:1 SG2:1 SG3:1 SG4:1
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 SG1:0 SG2:0 SG3:0 SG4:0
+
+strategy:0 AO:chopsf dur:7 freq:1 deltam:1 
+
+strategy:1 AO:chopsf dur:7 freq:1 deltam:8 
+
+strategy:2 AO:chopsf dur:7 freq:1 deltam:80 
+
+strategy:3 AO:chopsf dur:7 freq:2 deltam:1 
+
+strategy:4 AO:chopsf dur:7 freq:2 deltam:8 
+
+strategy:5 AO:chopsf dur:7 freq:2 deltam:80 
+
+strategy:6 AO:chopsf dur:7 freq:7 deltam:1 
+
+strategy:7 AO:chopsf dur:7 freq:7 deltam:8 
+
+strategy:8 AO:chopsf dur:7 freq:7 deltam:80 
+
+strategy:9 AO:chopsf dur:30 freq:1 deltam:1 
+
+strategy:10 AO:chopsf dur:30 freq:1 deltam:8 
+
+strategy:11 AO:chopsf dur:30 freq:1 deltam:80 
+
+strategy:12 AO:chopsf dur:30 freq:2 deltam:1 
+
+strategy:13 AO:chopsf dur:30 freq:2 deltam:8 
+
+strategy:14 AO:chopsf dur:30 freq:2 deltam:80 
+
+strategy:15 AO:chopsf dur:30 freq:7 deltam:1 
+
+strategy:16 AO:chopsf dur:30 freq:7 deltam:8 
+
+strategy:17 AO:chopsf dur:30 freq:7 deltam:80 
+
+strategy:18 AO:chopsf dur:360 freq:1 deltam:1 
+
+strategy:19 AO:chopsf dur:360 freq:1 deltam:8 
+
+strategy:20 AO:chopsf dur:360 freq:1 deltam:80 
+
+strategy:21 AO:chopsf dur:360 freq:2 deltam:1 
+
+strategy:22 AO:chopsf dur:360 freq:2 deltam:8 
+
+strategy:23 AO:chopsf dur:360 freq:2 deltam:80 
+
+strategy:24 AO:chopsf dur:360 freq:7 deltam:1 
+
+strategy:25 AO:chopsf dur:360 freq:7 deltam:8 
+
+strategy:26 AO:chopsf dur:360 freq:7 deltam:80 
+
+strategy:27 AO:trusol dur:7 freq:1 deltam:0 
+
+strategy:28 AO:trusol dur:7 freq:1 deltam:0 
+
+strategy:29 AO:trusol dur:7 freq:1 deltam:1 
+
+strategy:30 AO:trusol dur:7 freq:2 deltam:0 
+
+strategy:31 AO:trusol dur:7 freq:2 deltam:0 
+
+strategy:32 AO:trusol dur:7 freq:2 deltam:1 
+
+strategy:33 AO:trusol dur:7 freq:7 deltam:0 
+
+strategy:34 AO:trusol dur:7 freq:7 deltam:0 
+
+strategy:35 AO:trusol dur:7 freq:7 deltam:1 
+
+strategy:36 AO:trusol dur:30 freq:1 deltam:0 
+
+strategy:37 AO:trusol dur:30 freq:1 deltam:0 
+
+strategy:38 AO:trusol dur:30 freq:1 deltam:1 
+
+strategy:39 AO:trusol dur:30 freq:2 deltam:0 
+
+strategy:40 AO:trusol dur:30 freq:2 deltam:0 
+
+strategy:41 AO:trusol dur:30 freq:2 deltam:1 
+
+strategy:42 AO:trusol dur:30 freq:7 deltam:0 
+
+strategy:43 AO:trusol dur:30 freq:7 deltam:0 
+
+strategy:44 AO:trusol dur:30 freq:7 deltam:1 
+
+strategy:45 AO:trusol dur:360 freq:1 deltam:0 
+
+strategy:46 AO:trusol dur:360 freq:1 deltam:0 
+
+strategy:47 AO:trusol dur:360 freq:1 deltam:1 
+
+strategy:48 AO:trusol dur:360 freq:2 deltam:0 
+
+strategy:49 AO:trusol dur:360 freq:2 deltam:0 
+
+strategy:50 AO:trusol dur:360 freq:2 deltam:1 
+
+strategy:51 AO:trusol dur:360 freq:7 deltam:0 
+
+strategy:52 AO:trusol dur:360 freq:7 deltam:0 
+
+strategy:53 AO:trusol dur:360 freq:7 deltam:1 
+
+strategy 4:
+SG0: dualcs
+	FAP: 0.05
+	freq: 1 1/days
+	size of inspection team: small
+SG3: rda
+	freq: 1 1/days
+strategy 51:
+AO: trusol
+	duration: 360 days
+	freq: 7 1/days
+	TRU mass taken: 0 g

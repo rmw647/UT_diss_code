@@ -1,0 +1,119 @@
+budget:2000
+alpha:0.20
+vlow:0.477396
+vup:0.482211
+vgap: 0.010
+iterations:31882
+x[613575]=0.000
+x[687204]=0.000
+x[1521850]=0.000
+x[1521863]=0.006
+x[1521875]=0.076
+x[1521969]=0.917
+
+strategy 613575:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+strategy 687204:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG2: da
+	cyl sampled: 3
+strategy 1521850:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG10: rda
+	freq: 7 1/days
+strategy 1521863:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: front-end
+SG9: smms
+	FAP: 0.05
+strategy 1521875:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+SG9: smms
+	FAP: 0.05
+strategy 1521969:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG6: visinsp
+	freq: 7 1/days
+
+y[2]=0.000
+y[198]=0.000
+y[302]=0.948
+y[321]=0.000
+y[327]=0.015
+y[354]=0.036
+y[355]=0.000
+
+strategy 2:
+AO: cyltheft
+	area: feed storage
+	cylinders: 2.00
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 302:
+AO: udfeed
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.50
+strategy 321:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 1 g
+strategy 327:
+AO: chopsf
+	duration: 7 days
+	freq: 7 1/days
+	SF mass taken: 1 g
+strategy 354:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0 g
+strategy 355:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0 g
+
+time:2226.6197
+calcPayoff calls: 7888579
+

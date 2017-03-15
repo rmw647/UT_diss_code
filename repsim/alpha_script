@@ -1,0 +1,27 @@
+#!/bin/bash
+# do consecutive rep runs
+
+gcc r6000_01_old.c -o runfile
+./runfile
+
+gcc r6000_02_old.c -o runfile
+./runfile
+
+gcc r6000_03_old.c -o runfile
+./runfile
+
+gcc r6000_04_old.c -o runfile
+./runfile
+
+gcc r6000_05_old.c -o runfile
+./runfile
+
+gcc r6000_06_old.c -o runfile
+./runfile
+
+gcc r6000_07_old.c -o runfile
+./runfile
+
+
+
+

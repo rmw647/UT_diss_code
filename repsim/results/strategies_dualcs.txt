@@ -1,0 +1,40 @@
+strategy 3:
+SG0: dualcs
+	FAP: 0.05
+	freq: 1 1/days
+	size of inspection team: small
+strategy 228:
+SG0: dualcs
+	FAP: 0.01
+	freq: 1 1/days
+	size of inspection team: small
+strategy 453:
+SG0: dualcs
+	FAP: 0.05
+	freq: 1 1/days
+	size of inspection team: large
+strategy 678:
+SG0: dualcs
+	FAP: 0.01
+	freq: 1 1/days
+	size of inspection team: large
+strategy 903:
+SG0: dualcs
+	FAP: 0.05
+	freq: 7 1/days
+	size of inspection team: small
+strategy 993:
+SG0: dualcs
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: small
+strategy 1083:
+SG0: dualcs
+	FAP: 0.05
+	freq: 7 1/days
+	size of inspection team: large
+strategy 1173:
+SG0: dualcs
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: large

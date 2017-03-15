@@ -1,0 +1,47 @@
+budget:500
+alpha:0.10
+vlow:0.029543
+vup:1.102408
+vgap: 0.973
+iterations:101
+x[1448037]=0.010
+x[1521666]=0.980
+
+strategy 1448037:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+strategy 1521666:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+
+y[2]=0.010
+y[231]=0.010
+y[350]=0.971
+
+strategy 2:
+AO: cyltheft
+	area: feed storage
+	cylinders: 2.00
+strategy 231:
+AO: recycle
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.50
+	xp: 0.20
+	xf: 0.05
+strategy 350:
+AO: trusol
+	duration: 7 days
+	freq: 1 1/days
+	TRU mass taken: 1 g
+
+time:113.5002
+calcPayoff calls: 2534127
+

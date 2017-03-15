@@ -1,0 +1,49 @@
+budget:200
+alpha:0.80
+vlow:0.000320
+vup:0.000321
+vgap: 0.001
+iterations:806384
+x[202905]=0.000
+x[204120]=1.000
+
+strategy 202905:
+SG0: inspection
+	FAP: 0.01
+	freq: 28 1/days
+	size of inspection team: small
+strategy 204120:
+SG0: inspection
+	FAP: 0.01
+	freq: 28 1/days
+	size of inspection team: small
+SG2: nda
+	FAP: 0.01
+	freq: 28 1/days
+
+y[3]=0.000
+y[198]=0.000
+y[276]=1.000
+
+strategy 3:
+AO: cyltheft
+	cylinders: 2.00
+	area: product storage
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 276:
+AO: recycle
+	duration: 360 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.50
+	xp: 0.20
+	xf: 0.05
+
+time:7513.2703
+calcPayoff calls: 261861
+

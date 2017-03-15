@@ -1,0 +1,171 @@
+budget:2000
+alpha:0.00
+vlow:0.328691
+vup:0.329012
+vgap: 0.001
+iterations:8315
+x[87471]=0.000
+x[245627]=0.079
+x[245639]=0.420
+x[496513]=0.000
+x[613575]=0.000
+x[687204]=0.000
+x[1306536]=0.499
+x[1521850]=0.000
+x[1521875]=0.001
+
+strategy 87471:
+SG0: inspection
+	FAP: 0.01
+	team size: small
+SG2: da
+	cyl sampled: 3
+SG3: videotrans
+	team size: small
+SG4: aseals
+	frac casc sealed: 1
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+strategy 245627:
+SG0: inspection
+	FAP: 0.01
+	team size: small
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: front-end
+SG9: smms
+	FAP: 0.05
+strategy 245639:
+SG0: inspection
+	FAP: 0.01
+	team size: small
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+SG9: smms
+	FAP: 0.05
+strategy 496513:
+SG0: inspection
+	FAP: 0.01
+	team size: small
+SG1: nda
+	FAP: 0.001
+SG4: aseals
+	frac casc sealed: 1
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: front-end
+SG9: smms
+	FAP: 0.01
+strategy 613575:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+strategy 687204:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG2: da
+	cyl sampled: 3
+strategy 1306536:
+SG0: inspection
+	FAP: 0.01
+	team size: small
+SG1: nda
+	FAP: 0.01
+SG4: aseals
+	frac casc sealed: 1
+SG6: visinsp
+	freq: 7 1/days
+strategy 1521850:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG10: rda
+	freq: 7 1/days
+strategy 1521875:
+SG0: inspection
+	FAP: 0.01
+	team size: large
+SG1: nda
+	FAP: 0.01
+SG7: dualcs
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+SG9: smms
+	FAP: 0.05
+
+y[2]=0.000
+y[156]=0.000
+y[198]=0.000
+y[300]=0.742
+y[321]=0.000
+y[327]=0.169
+y[354]=0.088
+
+strategy 2:
+AO: cyltheft
+	area: feed storage
+	cylinders: 2.00
+strategy 156:
+AO: matcasc
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+	U mass taken: 0 g
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 300:
+AO: udfeed
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+strategy 321:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 1 g
+strategy 327:
+AO: chopsf
+	duration: 7 days
+	freq: 7 1/days
+	SF mass taken: 1 g
+strategy 354:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0 g
+
+time:803.5977
+calcPayoff calls: 7868493
+

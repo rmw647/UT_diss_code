@@ -1,0 +1,236 @@
+budget:2500
+alpha:0.00
+vlow:0.778346
+vup:0.786208
+vgap: 0.010
+iterations:40790
+x[613575]=0.000
+x[687204]=0.000
+x[1300818]=0.001
+x[1306317]=0.001
+x[1306743]=0.400
+x[1521850]=0.000
+x[1521874]=0.000
+x[1522158]=0.005
+x[1522170]=0.446
+x[1527328]=0.001
+x[1527642]=0.146
+
+strategy 613575:
+SG0: inspection
+	freq: 7 1/days
+	FAP: 0.01
+	team size: large
+strategy 687204:
+SG0: inspection
+	freq: 7 1/days
+	FAP: 0.01
+	team size: large
+SG2: da
+	freq: 7 1/days
+	cyl sampled: 3
+strategy 1300818:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: small
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG7: dualcs
+	freq: 1 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+strategy 1306317:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: small
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG4: aseals
+	frac casc sealed: 1
+SG7: dualcs
+	freq: 1 1/days
+	FAP: 0.01
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+strategy 1306743:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: small
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG4: aseals
+	frac casc sealed: 1
+SG6: visinsp
+	freq: 7 1/days
+	freq: 7 1/days
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+strategy 1521850:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG10: rda
+	freq: 7 1/days
+	freq: 7 1/days
+strategy 1521874:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+SG10: rda
+	freq: 7 1/days
+	freq: 7 1/days
+strategy 1522158:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG6: visinsp
+	freq: 7 1/days
+	freq: 7 1/days
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: NO
+	area: front-end
+strategy 1522170:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG6: visinsp
+	freq: 7 1/days
+	freq: 7 1/days
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: NO
+	area: back-end
+strategy 1527328:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG4: aseals
+	frac casc sealed: 1
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG8: div
+	3DLRFD purchased: YES
+	area: back-end
+SG10: rda
+	freq: 7 1/days
+	freq: 7 1/days
+strategy 1527642:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG4: aseals
+	frac casc sealed: 1
+SG6: visinsp
+	freq: 7 1/days
+	freq: 7 1/days
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.01
+	team size: small
+SG8: div
+	3DLRFD purchased: NO
+	area: front-end
+
+y[2]=0.000
+y[156]=0.001
+y[198]=0.000
+y[300]=0.998
+y[321]=0.000
+y[354]=0.001
+
+strategy 2:
+AO: cyltheft
+	area: feed storage
+	cylinders: 2.00
+strategy 156:
+AO: matcasc
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+	U mass taken: 0 g
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 300:
+AO: udfeed
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+strategy 321:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 1 g
+strategy 354:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0 g
+
+time:2861.1912
+calcPayoff calls: 8464822
+

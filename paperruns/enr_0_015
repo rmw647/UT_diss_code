@@ -1,0 +1,13 @@
+budget:0
+alpha:0.15
+vlow:0.000000
+vup:0.000000
+vgap: nan
+iterations:2
+
+
+
+
+time:2.1743
+calcPayoff calls: 247084
+

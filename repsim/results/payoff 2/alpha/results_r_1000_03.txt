@@ -1,0 +1,60 @@
+budget:1000
+alpha:0.30
+vlow:6.440375
+vup:6.446820
+vgap: 0.001
+iterations:74057
+x[1]=0.212
+x[195]=0.070
+x[207]=0.718
+
+strategy 1:
+SG2: smms
+	FAP: 0.05
+	freq: 1 1/days
+strategy 195:
+SG0: dualcs
+	FAP: 0.05
+	freq: 7 1/days
+	size of inspection team: small
+SG1: div
+	area: front-end
+	3DLRFD purchased: YES
+strategy 207:
+SG0: dualcs
+	FAP: 0.05
+	freq: 7 1/days
+	size of inspection team: small
+SG1: div
+	area: back-end
+	3DLRFD purchased: YES
+
+y[2]=0.000
+y[6]=0.224
+y[33]=0.358
+y[34]=0.418
+
+strategy 2:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 80.000 kg
+strategy 6:
+AO: chopsf
+	duration: 7 days
+	freq: 7 1/days
+	SF mass taken: 0.800 kg
+strategy 33:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0.008 kg
+strategy 34:
+AO: trusol
+	duration: 7 days
+	freq: 7 1/days
+	TRU mass taken: 0.080 kg
+
+time:0.3212
+calcPayoff calls: 934
+

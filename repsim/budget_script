@@ -1,0 +1,33 @@
+#!/bin/bash
+# do consecutive rep runs
+
+gcc r500_0.c -o runfile
+./runfile
+
+gcc r1000_0.c -o runfile
+./runfile
+
+gcc r1500_0.c -o runfile
+./runfile
+
+gcc r2000_0.c -o runfile
+./runfile
+
+gcc r2500_0.c -o runfile
+./runfile
+
+gcc r3000_0.c -o runfile
+./runfile
+
+gcc r4000_0.c -o runfile
+./runfile
+
+gcc r4500_0.c -o runfile
+./runfile
+
+gcc r6000_0.c -o runfile
+./runfile
+
+gcc r7000_0.c -o runfile
+./runfile
+

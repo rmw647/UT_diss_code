@@ -1,0 +1,30 @@
+budget:4000
+alpha:0.40
+vlow:0.078674
+vup:0.078753
+vgap: 0.001
+iterations:7413
+x[1]=1.000
+
+strategy 1:
+SG2: smms
+	FAP: 0.05
+	freq: 1 1/days
+
+y[2]=0.000
+y[47]=1.000
+
+strategy 2:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 80.000 kg
+strategy 47:
+AO: trusol
+	duration: 360 days
+	freq: 1 1/days
+	TRU mass taken: 0.800 kg
+
+time:0.3110
+calcPayoff calls: 2578
+

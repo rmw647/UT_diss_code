@@ -1,0 +1,53 @@
+budget:1500
+alpha:0.00
+vlow:0.275266
+vup:0.275541
+vgap: 0.001
+iterations:625661
+x[495]=0.000
+x[2520]=1.000
+
+strategy 495:
+SG0: inspection
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: small
+SG5: aseals
+	fraction cascades sealed: 1.00
+strategy 2520:
+SG0: inspection
+	FAP: 0.01
+	freq: 7 1/days
+	size of inspection team: small
+SG2: nda
+	FAP: 0.01
+	freq: 7 1/days
+SG5: aseals
+	fraction cascades sealed: 1.00
+
+y[156]=0.000
+y[225]=0.000
+y[300]=1.000
+
+strategy 156:
+AO: matcasc
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+	mass taken: 0.01
+strategy 225:
+AO: recycle
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.05
+strategy 300:
+AO: udfeed
+	duration: 7 days
+	freq: 7 1/days
+	fraction cascades dedicated: 0.02
+
+time:7281.0771
+calcPayoff calls: 648371
+

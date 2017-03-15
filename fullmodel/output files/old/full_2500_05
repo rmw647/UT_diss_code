@@ -1,0 +1,71 @@
+budget:2500
+alpha:0.50
+vlow:0.006531
+vup:0.006597
+vgap: 0.010
+iterations:99194
+x[613575]=0.000
+x[687204]=0.000
+x[1521850]=1.000
+
+strategy 613575:
+SG0: inspection
+	freq: 7 1/days
+	FAP: 0.01
+	team size: large
+strategy 687204:
+SG0: inspection
+	freq: 7 1/days
+	FAP: 0.01
+	team size: large
+SG2: da
+	freq: 7 1/days
+	cyl sampled: 3
+strategy 1521850:
+SG0: inspection
+	freq: 28 1/days
+	FAP: 0.01
+	team size: large
+SG1: nda
+	freq: 28 1/days
+	FAP: 0.01
+SG7: dualcs
+	freq: 7 1/days
+	FAP: 0.05
+	team size: small
+SG10: rda
+	freq: 7 1/days
+	freq: 7 1/days
+
+y[2]=0.000
+y[198]=0.000
+y[276]=1.000
+y[321]=0.000
+
+strategy 2:
+AO: cyltheft
+	area: feed storage
+	cylinders: 2.00
+strategy 198:
+AO: repiping
+	duration: 7 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.02
+	xp: 0.20
+	xf: 0.01
+strategy 276:
+AO: recycle
+	duration: 360 days
+	freq: 1 1/days
+	fraction cascades dedicated: 0.50
+	xp: 0.20
+	xf: 0.05
+strategy 321:
+AO: chopsf
+	duration: 7 days
+	freq: 1 1/days
+	SF mass taken: 1 g
+
+time:6813.8865
+calcPayoff calls: 6347340
+
